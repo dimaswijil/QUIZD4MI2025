@@ -4,12 +4,10 @@ Sebuah aplikasi kuis sederhana yang dibangun menggunakan Flutter, ditujukan untu
 
 Tampilan Aplikasi
 Tampilan Awal	Tampilan Kuis	Hasil Akhir
-| <img src="https://github.com/user-attachments/assets/a8ed5acf-e8e9-41f1-b79e-fdf9bdaf6fd3" width="250"> | <img src="https://github.com/user-attachments/assets/092d6f97-a1bc-4a69-a9e6-5240a53820cf" width="250"> | <img src="https://github.com/user-attachments/assets/02d8325b-fec8-470f-8ba8-87eb96605827" width="250"> |
+<img src="https://github.com/user-attachments/assets/a8ed5acf-e8e9-41f1-b79e-fdf9bdaf6fd3" width="250"> | <img src="https://github.com/user-attachments/assets/092d6f97-a1bc-4a69-a9e6-5240a53820cf" width="250"> | <img src="https://github.com/user-attachments/assets/02d8325b-fec8-470f-8ba8-87eb96605827" width="250"> |
 
-Catatan: Ganti URL_GAMBAR_..._ANDA dengan tautan ke gambar-gambar Anda setelah diunggah ke GitHub atau layanan hosting gambar lainnya.
 
 Fitur Utama
-
 Antarmuka Unik: Desain antarmuka yang khas dengan tema terminal/hacker untuk menarik minat.
 
 Kuis Interaktif: Terdiri dari 10 soal pilihan ganda seputar dasar-dasar informatika.
