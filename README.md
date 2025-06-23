@@ -54,15 +54,3 @@ Untuk menjalankan proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 ---
 
 Jangan ragu untuk berkontribusi, memberikan saran, atau melaporkan bug dengan membuat *issue* baru.
-
-Perubahan yang Dilakukan:
-
-Memperbaiki Tabel Gambar: Tabel kini diformat dengan benar sehingga ketiga gambar akan tampil berdampingan di bawah header "Tampilan Awal", "Tampilan Kuis", dan "Hasil Akhir".
-
-Menambah List (bullet points): Bagian "Fitur Utama" dan "Teknologi yang Digunakan" diubah menjadi bullet list agar lebih mudah dibaca.
-
-Menambah List Bernomor: Bagian "Alur Aplikasi" dan "Cara Menjalankan Proyek" diubah menjadi daftar bernomor karena merupakan urutan langkah-langkah.
-
-Membersihkan Perintah Terminal: Teks tambahan seperti Generated sh... dan IGNORE_WHEN_COPYING... telah dihapus dari blok kode, sehingga perintahnya bersih dan bisa langsung disalin.
-
-Menambah Garis Pemisah: Ditambahkan garis pemisah (---) sebelum kalimat penutup untuk tampilan yang lebih rapi.
