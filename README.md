@@ -1,7 +1,3 @@
-Tentu saja! Ini adalah draf lengkap untuk file README.md di repositori GitHub Anda. Deskripsi ini menggabungkan semua informasi yang telah kita diskusikan (target audiens, fitur, alur aplikasi, dan tampilan) agar terlihat profesional dan informatif.
-
-Anda cukup menyalin dan menempelkan teks di bawah ini ke dalam file README.md di proyek Anda.
-
 QuizMI - Aplikasi Kuis Manajemen Informatika
 
 Sebuah aplikasi kuis sederhana yang dibangun menggunakan Flutter, ditujukan untuk mahasiswa baru (maba) program studi D4 Manajemen Informatika. Aplikasi ini dirancang sebagai sarana perkenalan dan pengujian pemahaman dasar seputar dunia IT dan komputer dengan cara yang menyenangkan.
